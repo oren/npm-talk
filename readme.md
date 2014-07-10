@@ -1,5 +1,4 @@
-Slides and Code from [jingjs.org](http://jingjs.org/) Conference  
-![galaxy](http://cdn-images.9cloud.us/8/the-hitchh_1652808886.jpg)
+![galaxy](http://i.huffpost.com/gen/1492467/thumbs/o-BABY-FOOD-MESS-facebook.jpg)
 
 ```bash
 git clone git@github.com:oren/jingjs-talk.git
