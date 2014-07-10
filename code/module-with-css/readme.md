@@ -17,4 +17,4 @@
     npm run build-js
 
 ## Run
-    open index.html
+  chromium-browser index.html
